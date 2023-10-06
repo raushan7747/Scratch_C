@@ -15,9 +15,6 @@ int main()
     puts(array);
     // printf("%s", array);
 
-
-
-    // int testing; // works with only strings of an array, not integers
     // scanf("%[1,9,6]", &testing); sirf ik %s hi format specifier hai jo sabhi data types store karta hai
     // printf("%d", testing); // square brackets ke andar [ ] hum conditions laga sakte hain, jaise %[ ^\n, A-Z, a-z]
 
