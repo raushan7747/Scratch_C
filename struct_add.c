@@ -10,7 +10,11 @@ struct Address
     int House_no;
 };
 
-void Printing_Addresses(struct Address address);
+void Printing_Addresses_1(struct Address address);
+void Printing_Addresses_2(struct Address address);
+void Printing_Addresses_3(struct Address address);
+void Printing_Addresses_4(struct Address address);
+void Printing_Addresses_5(struct Address address);
 int main()
 {
     struct Address address[5];
@@ -49,14 +53,30 @@ int main()
     scanf("%d", &address[4].Block);
     scanf("%d", &address[4].House_no);
 
-    Printing_Addresses(address[0]);
-    Printing_Addresses(address[1]);
-    Printing_Addresses(address[2]);
-    Printing_Addresses(address[3]);
-    Printing_Addresses(address[4]);
+    Printing_Addresses_1(address[0]);
+    Printing_Addresses_2(address[1]);
+    Printing_Addresses_3(address[2]);
+    Printing_Addresses_4(address[3]);
+    Printing_Addresses_5(address[4]);
 } // } int main()
 
-void Printing_Addresses(struct Address address)
+void Printing_Addresses_1(struct Address address)
 {
-    printf("\n Addresses of the persons is: %2s, %2s, %2d, %2d ", address.Country, address.City, address.Block, address.House_no);
+    printf("\n Addresses of the person 1 is: %2s, %2s, %2d, %2d ", address.Country, address.City, address.Block, address.House_no);
+};
+void Printing_Addresses_2(struct Address address)
+{
+    printf("\n Addresses of the person 2 is: %2s, %2s, %2d, %2d ", address.Country, address.City, address.Block, address.House_no);
+};
+void Printing_Addresses_3(struct Address address)
+{
+    printf("\n Addresses of the person 3 is: %2s, %2s, %2d, %2d ", address.Country, address.City, address.Block, address.House_no);
+};
+void Printing_Addresses_4(struct Address address)
+{
+    printf("\n Addresses of the person 4 is: %2s, %2s, %2d, %2d ", address.Country, address.City, address.Block, address.House_no);
+};
+void Printing_Addresses_5(struct Address address)
+{
+    printf("\n Addresses of the person 5 is: %2s, %2s, %2d, %2d ", address.Country, address.City, address.Block, address.House_no);
 };

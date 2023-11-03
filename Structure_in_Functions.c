@@ -13,8 +13,8 @@ typedef struct Student_details
     int semester;             // 2
 } sts;
 
-void Printing_inputs(sts *);  // taking characters through scanf
-void Printing_details(sts *); // taking characters through gets
+void Printing_inputs(sts *); // taking characters through scanf
+void Printing_details(sts *);
 void student_credentials(sts *);
 void StudentEmail(sts *);
 
@@ -49,13 +49,13 @@ void Printing_details(sts *Student)
     // here's we'll take characters thorough user -> by the help of Looops with gets
     printf("Enter the student Program: ");
     // scanf("%[A-Z, a-z, ,]", Student->student_program);
-    scanf("%s", Student->student_program); // Here's I'm unable to use [Scanset], check it once again
+    scanf("%[A-Z, a-z, ,]", Student->student_program); // Here's I'm unable to use [Scanset], check it once again
     printf("%s\n", Student->student_program);
 }
 void student_credentials(sts *student)
 {
     printf("Enter the Student Institute name: ");
-    scanf("%s", student->institute);
+    scanf("%[A-Z, a-z, ,]", student->institute);
     printf("%s\n", student->institute);
 }
 void StudentEmail(sts *Students)
