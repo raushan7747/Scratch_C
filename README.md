@@ -13,5 +13,5 @@
 </picture>
 
 1. There's also the whole codes 
-2. May be something missing 
-3. Look at the another Repositories 
+1. May be something missing 
+1. Look at the another Repositories 
