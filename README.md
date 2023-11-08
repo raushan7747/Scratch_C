@@ -7,9 +7,9 @@
 :green_heart:
 :green_heart:
 
-	:purple_heart:
-	:white_heart:
-	:purple_heart:
+:purple_heart:
+:white_heart:
+:purple_heart:
 
 - **welcome to my repository**
 - 1.This is Raushan Mandal
