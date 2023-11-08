@@ -15,7 +15,7 @@
 1. There's also the whole codes
    - look at also Function A-Z
    - and also much more in C
-     - [X] Also Java is there
-          * [x] and, HTML 
+     - [X] Also, Java is there
+          * [x] #and, HTML 
 1. May be something missing 
 9. Look at the another Repositories 
