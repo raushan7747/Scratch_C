@@ -3,8 +3,8 @@
 ###### In progress
 :heart: :heart: :heart: :heart: :heart:
 
-:middle_finger:
-:middle_finger:	
+:finger:
+:finger:	
 
 :green_heart:	
 :green_heart:
