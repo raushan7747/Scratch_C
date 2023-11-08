@@ -14,6 +14,6 @@
 
 1. There's also the whole codes
    - look at also Function A-Z
-    - and also much more in C
+   - and also much more in C
 1. May be something missing 
 9. Look at the another Repositories 
