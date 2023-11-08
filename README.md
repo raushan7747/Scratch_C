@@ -3,9 +3,6 @@
 ###### In progress
 :heart: :heart: :heart: :heart: :heart:
 
-:finger:
-:finger:	
-
 :green_heart:	
 :green_heart:
 
