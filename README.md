@@ -3,7 +3,7 @@
 ###### In progress
 :heart:
 - **welcome to my repository**
-- 1.This is Raushan Mandal
+- 1. This is Raushan Mandal
 1. welcome
 
 <picture>
