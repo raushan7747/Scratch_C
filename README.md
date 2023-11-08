@@ -16,6 +16,6 @@
    - look at also Function A-Z
    - and also much more in C
      - Also Java is there
-          * and, HTML 
+          * [ ] and, HTML 
 1. May be something missing 
 9. Look at the another Repositories 
