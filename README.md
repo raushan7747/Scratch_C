@@ -2,8 +2,7 @@
 ## only for revesion purpose
 ###### In progress
 :heart: :heart: :heart: :heart: :heart:
-:fu:
-:middle_finger:
+:fu:middle_finger:
 - **welcome to my repository**
 - 1.This is Raushan Mandal
 2. welcome Back
