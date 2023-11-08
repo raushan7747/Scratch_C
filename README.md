@@ -1,2 +1,2 @@
 # C practice codes
-only for revesion purpose
+## only for revesion purpose
