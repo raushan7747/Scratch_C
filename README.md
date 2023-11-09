@@ -31,7 +31,7 @@
      - [X] Also, Java is there
        - [x] and, HTML
 1. May be something missing
-1. 9. Look at the another Repositories
+1. Look at the another Repositories
 
 > [! NOTE]
 > Highlights information that users should take into account, even when skimming.
