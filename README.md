@@ -2,7 +2,7 @@
 
 ## only for revesion purpose
 
-### This is Rausha Kumar
+### This is Raushan Kumar
 
 :heart: :heart: :heart: :heart: :heart:
 
