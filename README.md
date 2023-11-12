@@ -1,8 +1,12 @@
 # C practice codes
 
-## only for revesion purpose
+## Only for revesion purpose
 
-### This is Raushan Kumar
+<main>
+   <h2>
+   😎😎This is Raushan, welcomes you
+   </h2>
+</main>
 
 :heart: :heart: :heart: :heart: :heart:
 
