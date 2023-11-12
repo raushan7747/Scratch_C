@@ -4,7 +4,7 @@
 
 <main>
    <h2>
-   😎😎This is Raushan, welcomes you
+   🙂This is Raushan, welcomes you
    </h2>
 </main>
 
