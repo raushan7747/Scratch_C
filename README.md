@@ -1,8 +1,12 @@
 # C practice codes
 
-## only for revesion purpose
+## Only for revesion purpose
 
-### This is Rausha Kumar
+<main>
+   <h2>
+    😈😈😈 This is Raushan, welcomes you 🙂
+   </h2>
+</main>
 
 :heart: :heart: :heart: :heart: :heart:
 
@@ -19,7 +23,7 @@
 
 1. welcome Back.
 
-<picture>
+<!-- <picture>
 
 <source media="(min-width: 650px)" srcset="profile_pic.jpg">
 
@@ -27,7 +31,8 @@
 
 <img alt="Raushan Kumar_profile-picture" src="profile_pic.jpg" style="width:auto;">
 
-</picture>
+</picture> -->
+![profile_pic](https://github.com/raushan7747/Scratch_C/assets/137276147/b09a1152-4068-4c07-b735-11f2cc015384)
 
 <!-- 1. There's also the whole codes
    - look at also Function A-Z
