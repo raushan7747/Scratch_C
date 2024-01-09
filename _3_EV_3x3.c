@@ -1,5 +1,4 @@
 // finding Eigen value of a 3 x 3 matrix
-// finding the Characteristic equation of a 3 x 3 matrix
 #include <stdio.h>
 int main()
 {
@@ -57,7 +56,6 @@ int main()
         }
     }
     // sum of eigen values = trace of matrix
-    // multiply of eigen values = determinant of matrix
     for (eigen3 = -1; eigen3 > -100; eigen3--)
     {
         if (eigen1 + eigen2 + eigen3 == trace)
