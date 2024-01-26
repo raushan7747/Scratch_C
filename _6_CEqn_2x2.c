@@ -24,6 +24,7 @@ int main()
     // finding the determinant of the 2 x 2 matrix
     int determinant = ((matrix[0][0]) * (matrix[1][1])) - ((matrix[1][0]) * (matrix[0][1]));
     int trace = matrix[0][0] + matrix[1][1];
+    printf("\nCharacteristic equation formula is:\n(Lambda-square) - Trace of matrix (Lambda) + Determinant of matrix\n\n");
     printf("Characteristic equation is:\n (Lambda-square) - %d (Lambda) + %d = 0", trace, determinant);
     return 0;
 }
