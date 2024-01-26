@@ -36,6 +36,7 @@ int main()
     int thirdMinor = (matrix[0][0] * matrix[1][1]) - (matrix[1][0] * matrix[0][1]);
     int sumOfMinor = firstMinor + secondMinor + thirdMinor;
     int characteristicEquation, lambda1, lambda2, eigen1, eigen2, eigen3;
+    printf("\nCharacteristic equation formula is:\n(Lambda-cube) - Trace of matrix (Lambda-square) + Sum of minors along diagonals (Lambda) - Determinant of matrix\n\n");
     printf("Characteristic equation is:\n(Lambda-cube) - %d (Lambda-square) + %d (Lambda) - %d = 0\n\n", trace, sumOfMinor, determinant);
     for (lambda1 = -1; lambda1 > -100; lambda1--)
     {
